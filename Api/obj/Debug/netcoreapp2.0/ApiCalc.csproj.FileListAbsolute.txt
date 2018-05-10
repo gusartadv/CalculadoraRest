@@ -1,0 +1,11 @@
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\bin\Debug\netcoreapp2.0\ApiCalc.deps.json
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\bin\Debug\netcoreapp2.0\ApiCalc.runtimeconfig.json
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\bin\Debug\netcoreapp2.0\ApiCalc.runtimeconfig.dev.json
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\bin\Debug\netcoreapp2.0\ApiCalc.dll
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\bin\Debug\netcoreapp2.0\ApiCalc.pdb
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\obj\Debug\netcoreapp2.0\ApiCalc.csprojResolveAssemblyReference.cache
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\obj\Debug\netcoreapp2.0\ApiCalc.csproj.CoreCompileInputs.cache
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\obj\Debug\netcoreapp2.0\ApiCalc.AssemblyInfoInputs.cache
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\obj\Debug\netcoreapp2.0\ApiCalc.AssemblyInfo.cs
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\obj\Debug\netcoreapp2.0\ApiCalc.dll
+c:\users\gustavoadolfo\source\repos\ApiCalc\ApiCalc\obj\Debug\netcoreapp2.0\ApiCalc.pdb
