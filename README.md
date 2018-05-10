@@ -13,10 +13,10 @@ Resta
 http://localhost:6002/Api/values/resta/5/9
 
 Multiplicacion
-http://localhost:6002/Api/div/suma/5/9
+http://localhost:6002/Api/values/div/suma/5/9
 
 Division
-http://localhost:6002/Api/mult/suma/5/9
+http://localhost:6002/Api/values/mult/suma/5/9
 
 Creacion del contenedor
 
